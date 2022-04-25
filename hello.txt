@@ -1,0 +1,14 @@
+{básico}
+
+tu le pondrias..
+el tiempo que quieres que te cuente en minutos....
+ej: 2
+y el te ira contando en segundos hasta llegar a esos "2" minutos,
+mientas va cambiando de color.
+luego sonara una alarma (te mostrara la fecha y la hora actual).
+
+Y la alarma dejara de sonar cuando cierres la ventana.
+
+SIMPLE!
+
+SALU2!!! :D
